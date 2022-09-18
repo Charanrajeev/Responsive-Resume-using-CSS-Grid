@@ -30,7 +30,7 @@ section{
     display: block;
 }
 div.left-content{
-    /* padding-left: 1rem; */
+     padding-left: 1rem; 
     width: 300px;
     height: 315.02px;
     color: #000000;
