@@ -58,6 +58,7 @@ div.profile{
 }
 img.profile-image{
     display: block;
+    align-items:center;
     margin-left: auto;
     margin-right: auto ;
     border: 5px solid white;
